@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .container {
+    display: flex;
+    height: calc(100vh - 100px); /* Adjust navbar and footer height */
+  }
+  
+  .red-div {
+    background-color: red;
+    flex: 1;
+  }
+  
+  .green-div {
+    background-color: green;
+    flex: 1;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    font-family: 'Baloo Bhai 2', cursive; /* Apply Google Font */
+  }
+  

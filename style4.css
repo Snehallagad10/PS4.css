@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .box {
+    width: 200px;
+    height: 100px;
+    margin: 10px 0;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .box1 {
+    background-color: blue;
+  }
+  
+  .box2 {
+    background-color: green;
+  }
+  
+  /* visibility: hidden to the green box */
+  .hidden {
+    visibility: hidden;
+  }
+  
+  .box3 {
+    background-color: red;
+  }
+  
+  /*  display: none to the red box */
+  .none {
+    display: none;
+  }
+  

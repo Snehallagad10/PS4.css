@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .navbar {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .container {
+    display: flex;
+    height: calc(100vh - 50px); /* Adjust for navbar height */
+  }
+  
+  .red-div {
+    background-color: red;
+    flex: 1;
+  }
+  
+  .green-div {
+    background-color: green;
+    flex: 1;
+  }
+  

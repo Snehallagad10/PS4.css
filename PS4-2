@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website Layout</title>
+  <!-- Link to Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap" rel="stylesheet">
+  <!-- Link to External CSS -->
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+  <div class="navbar">
+    Black Navbar
+  </div>
+  <div class="container">
+    <div class="red-div"></div>
+    <div class="green-div"></div>
+  </div>
+  <div class="footer">
+    Footer with "Baloo Bhai 2" Font
+  </div>
+</body>
+</html>
